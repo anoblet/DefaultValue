@@ -1,0 +1,19 @@
+{
+  "name": "@anoblet/defaultvalue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "DefaultValue.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anoblet/DefaultValue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anoblet/DefaultValue/issues"
+  },
+  "homepage": "https://github.com/anoblet/DefaultValue#readme"
+}
